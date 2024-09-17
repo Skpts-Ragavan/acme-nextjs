@@ -11,6 +11,9 @@ importers:
       '@heroicons/react':
         specifier: ^2.1.5
         version: 2.1.5(react@18.3.1)
+      '@neondatabase/serverless':
+        specifier: ^0.9.5
+        version: 0.9.5
       '@vercel/postgres':
         specifier: ^0.10.0
         version: 0.10.0
