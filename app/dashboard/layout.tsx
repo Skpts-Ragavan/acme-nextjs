@@ -1,6 +1,7 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
 
-export const experimental_ppr = true;
+// templ disable ppr due to unsupetd
+// export const experimental_ppr = true;
  
 export default function DashboardLayout({ children }: { children: React.ReactNode }) {
   return (
